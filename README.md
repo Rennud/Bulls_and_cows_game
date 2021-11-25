@@ -1,4 +1,4 @@
-BULLS AND COWS GAME
+# Bulls and cows game
 
 Simulation of the game bulls and cows. 
 
