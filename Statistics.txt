@@ -1,0 +1,3 @@
+23/11/2021 02:38:40 - Number o attempts: 2
+23/11/2021 10:39:09 - Number o attempts: 7
+23/11/2021 10:47:39 - Number o attempts: 7
